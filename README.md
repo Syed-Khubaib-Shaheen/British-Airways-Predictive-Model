@@ -12,8 +12,7 @@ This project was completed as part of the Forage Data Science Virtual Experience
 
 ## 📂 Repository Structure
 - `BA_Booking_Model.py`: Complete Python script with model training and visualization
-- `BA_Booking_Model_Summary.pptx`: One-slide executive summary with insights and recommendations
-- `top_features_chart.png`: Feature importance visualization
+- `BA_Booking_Model_Summary.pptx`: Executive summary with insights and recommendations. Also has feature chart.
 - `data/customer_booking.csv`: Provided dataset (encoded version)
 - `notebooks/`: Script folder for future Jupyter/Colab integration
 
